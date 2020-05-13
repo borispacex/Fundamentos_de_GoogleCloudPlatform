@@ -1,0 +1,5 @@
+Independientemente del tipo procesamiento de cómputo que estés usando puedes usar cualquiera de los 5 servicios de almacenamiento que Google Cloud te proporciona.
+
+Cloud Storage permite generar un alto desempeño de almacenamiento y de consultas de información, su administración es sencilla. No es un sistema de archivos.
+
+Algunas otras opciones que contempla Cloud Storage es que toda la información que es almacenada siempre estará encriptada. Existen mecanismos para copias de información offline donde grabas todo en un dispositivo que Google te proporciona y lo llevas al data center más cercano, esto es recomendable cuando tienes que subir terabytes de información o petabytes.

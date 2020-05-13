@@ -1,0 +1,23 @@
+Los proyectos son la estructura basica
+- Project name: (puede cambiarse)
+- Project ID: Unico
+- Project number: numero unico (Para darte soporte, cobrarte la factura, etc)
+
+Integracion con las herramientas mas populares
+- VisualStudio
+- Microsoft PowerShell
+- JetBrains
+- Android Studio
+
+Integracion con GoogleCloud
+- APIs REST
+- Bibliotecas para tus lenguajes y plataformas
+- Aplicacion movil (iOS y Android)
+- Google Cloud Shell
+
+¿Como se agrupan y gestionan los recursos GCP?
+- Viewer: Acceso de lectura a los recursos
+- Editor: Despliega aplicaciones, gestiona el proyecto y Viewer
+- Owner: Administra miembros, gestiona el proyecto y Editor
+
+IAM: Identity access management

@@ -1,0 +1,17 @@
+¿Que es la nube?
+- Servicios compartidos, publicamente en lugar de crear mi propia infraestructura.
+- Servicios de Computo ofrecidos por un proveedor y pueden ser consumidos por cualquier usuario.
+Necesita cumplir estas 5 caracteristicas:
+1. Autoservicio.
+2. Amplio Acceso de Conectividad.
+3. Recursos Compartidos.
+4. Elasticidad Rapida.
+5. Servicio Medible
+Nube en la actualidad
+- Mas alla del 'pago por uso', la tendencia es 'servicios completamente administrados'
+- Serverles (sin servidor)
+Beneficios
+- Permite tener computo
+- No tiene limites
+- Prototipos tecnologicos sin riesgo
+- Permite enfocarte a tu negocio, no a la tecnologia.

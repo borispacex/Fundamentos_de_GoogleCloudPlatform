@@ -1,0 +1,19 @@
+¿Como es la infraestructura de nuve en Google y por que es una opcion optima?
+- Datacenters
+Servicios Instantaneos
+- Almacenamiento, computo, podemos acceder desde cualquier lugar del mundo. No hay limites.
+Conectenividad Global
+- Conectividad atraves de cables submarinos de los servidores de Google, nosotros solo tenemos que tener acceso a internet para acceder a los servicios.
+Regiones y Zonas
+- Tiene grandes Datacenters en Oregon, Towa, Virginia, Sao Paulo, London, Finland, Taiwan, etc.
+Sustentabilidad
+- Combina tecnologias de refrigeracion para bajar el consujo de electricidad, asi utilizando  energias renovables.
+Estandares Abiertos
+- No tenemos lenguajes propietarios.
+Flexibilidad de Cobro
+- Cobro por segundo, recibes la factura al mes.
+Amplitud de Servicios
+- Compute: (Compute Engine, Kubernetes Engine, App Engine y Cloud Functions)
+- Storage: Almacenamiento (Bigtable, Cloud Storage, Cloud SQL, Cloud Spanner, Cloud Datastore)
+- BigData: (BigQuery, Pub/Sub, Dataflow, Dataflow, Dataproc, Datalab)
+- Machine Learning
