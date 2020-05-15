@@ -1,0 +1,6 @@
+Soluciones de BigData
+- Big Query:  antiguo
+- Data Proc: manejo de informacion en paralelo
+- Cloud Datalab: orientado a analisis de informacion 
+- Dataflow: herramienta conectividad o integracion
+- Pub/Sub: sistema de mensajeria orientado a detectar eventos

@@ -1,0 +1,10 @@
+Datastore
+- Escalamiento automatico y totalmente administrado
+- Construido pensando en la redundancia
+- Base de datos NoSQL
+- Incluye cuotas gratis diaria
+- Acceso mediante bibliotecas y RESTful interface
+
+- Transacciones ACID 
+- Sharding y Replicacion
+- Multiples tipos de datos

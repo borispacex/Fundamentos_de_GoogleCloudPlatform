@@ -15,4 +15,18 @@ Distribuciones Linux gratuitas
 
 Windows Server (2008, 2012, 2016)
 
+Creamos una Maquina virtual
+# Actualizamos repositorios
+sudo apt update
+# Instalamos el servicio Apache y Git
+sudo apt install -y git apache2
+# Eliminamos el archivo index.html por defecto de apache2
+sudo rm -f /var/www/html/index.html
+# Clonamos el repositorio
+git clone https://gitlab.com/tonioguzmanf/gcp-bookshelf.git
+cd gcp-bookshelf
+# Mas informacion en:
+https://gitlab.com/tonioguzmanf/gcp-bookshelf
+
+
 

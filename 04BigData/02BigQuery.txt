@@ -1,0 +1,13 @@
+Big Query DataStudio y Pub/Sub para automatizacion de eventos
+- Data warehouse completamente administrado
+- Provee analisis practicamente en tiempo real de grandes volumenes de datos (TB)
+- Compatible con SQL 2011
+- Cero Administracion para el escalamiento
+
+- Computo y almacenamiento son gestionados de forma independiente
+- Solamente paga por el almacenamiento y el procesamiento usado
+
+Pub/Sub
+- Mensajeria asincrona que soporta muchos a muchos
+- Suscipcion a topicos mediante push/pull
+- Ingesta datos en streaming o en batch

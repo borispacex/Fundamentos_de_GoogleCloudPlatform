@@ -1,0 +1,9 @@
+Security
+Google te ofrece distintos servicios para brindarle una seguridad completa a tus proyectos.
+
+- Cloud IAM: te ayuda a manejar distintos permisos acorde a los perfiles que necesites, ya sea propietario, editor o un viewer dentro de tu proyecto. Si bien lo deseas puedes hacer tus propios roles personalizados.
+- Security Scanner: con este servicio tu podras correr análisis de seguridad en aplicaciones que tengas en App Engine o Compute Engine.
+- Key management service: Esencial si tu deseas manejar tus propias claves de encriptación de la información.
+- Data loss prevention: útil para detectar en dónde estás manejando información sensible.
+- Identity aware proxy: bloquea la aplicación a aquellas personas que no estén autorizadas de verla.
+- forseti .- Analizar si tu equipo es vulnerable a ataques, si no tienes parches.

@@ -1,0 +1,5 @@
+Vision API
+- combinar Cloud functions y Google DataStore (libros)
+
+
+

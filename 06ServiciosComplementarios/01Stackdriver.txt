@@ -1,0 +1,19 @@
+Stackdriver
+Es una serie de herramientas que puedes integrar a tus proyectos de GCP para obtener datos de cómo se comportan los diferentes recursos de tu proyecto.
+
+Dichas herramientas se dividen en:
+• Monitoring: podrás obtener una métrica de tus recursos.
+• Logging: forma eficiente de registrar la actividad dentro de tu proyecto.
+• Error reporting: siempre es importante saber cuando algo falla en tu plataforma.
+• Trace
+• Debugger: ¿alguna vez tu código no hace lo que esperas y no hay ningún error? En estos casos el debugger es una gran herramienta.
+• Profiler: útil para verificar si tu código genera algún cuello de botella.
+
+Stackdriver
+- Monitoring
+- Logging
+- Error reporting
+- Trace
+- Debugger
+- Profiler
+

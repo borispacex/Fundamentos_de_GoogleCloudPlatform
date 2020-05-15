@@ -1,0 +1,8 @@
+Cloud SQL
+- Base de datos MySQL y Postgres administratadas por Google
+- Modelo de precio de pago por uso
+- REST API para administracion
+- Integracion con App Engine y Compute Engine
+- Escalamiento vertical (lectura y escritura)
+- Escalamiento horizontal (lectura)
+

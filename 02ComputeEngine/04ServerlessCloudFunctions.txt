@@ -1,0 +1,7 @@
+Serverless - Cloud Functions
+
+Cloud Functions
+Escribe funciones con JS
+- Ejecuta en un sandbox de nodejs
+- Responde ante evenetos predefinidos en GCP
+- Compatible con el ecosistema de bibliotecas

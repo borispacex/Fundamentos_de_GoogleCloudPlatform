@@ -1,0 +1,18 @@
+Dataflow y DataStudio
+- Servicio administrativo para definir operaciones en datos
+    * Modelo de programacion basado en tranformaciones
+- Caso de Uso
+    * ETL (extract/transform/load)
+    * Analisis de data: Computo en lotes y computo continuo usando streaming
+    - Orquestacion: Flujos de datos que coordinan servicios de datos incluyendo a los externos
+- SDKs open source para Java y Python
+- Una forma rapida, facil y administrada para ejecutar Hadoop y Spark/Hive/Pig en GCP
+- Herramientas de desarrollo
+    * API RESTful
+    * Integration con Google Cloud SDK
+
+
+Data Studio
+- Herramienta Gratuita de visualizacion de informacion
+- Integracion Nativa a Fuentes de Datos de Google Cloud y Conectores a Fuentes Externas
+- Facilidad de Uso para usuarios no tecnicos

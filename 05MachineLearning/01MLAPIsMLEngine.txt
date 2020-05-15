@@ -1,0 +1,39 @@
+Vision API
+- Identificacion de objectos
+- Deteccion de rostros y emociones
+- OCR
+- Busquedas web
+- Identificacion de contenido explicito
+- y mas
+
+Video Intelligence
+- Identificacion de objetos
+- Deteccion de contenido
+- Deteccion de cambios de escena
+- Analisis a nivel de milisegundos
+- Transcripcion del audio del video
+- y mas
+
+Speech to Text y Text to Speech
+- Convierte un flujo de audio a texto
+    * Soporte para contexto
+- Pasa de un texto a voz
+    * Usando las voces de DeepMind
+    * Soporte de SSML
+    * Volumen, velocidad y tonos ajustables
+- Adaptado a varios idiomas y sus variantes
+
+Natural Language
+- Analisis
+    * Sentimental
+    * Gramatical y sintactico
+    * Detecta las entidades mas relevantes de un texto
+- Adaptado a varios idiomas y sus variantes
+
+ML Engine
+- Tu propio modelo con Tensorflow
+- Entrenalo con hardware especializado
+- Despliega en GCP o llevalo a donde quieras
+
+Tensorflow
+- Construye el modelo con hardware especializado y luego desplegar en GCP o donde se desee
